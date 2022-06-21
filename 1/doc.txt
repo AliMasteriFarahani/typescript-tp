@@ -1,0 +1,8 @@
+ tsc
+ tsc -w    --->  watch all 
+
+ tsc -w my.ts  
+
+ npm install systemjs ---> this is a module loader
+
+ npm install --save @types/jquery
